@@ -13,10 +13,10 @@ An automated and reproducible workflow for mitochondrial genome assembly and ana
 [View Mitopipeline](https://github.com/cacayan2/mitopipeline)
 
 ## 🛠 Technical Skills
-**Languages:** `Python`, `R`, `Bash`, Java, C++
-**Bioinformatics:** `Biopython`, `Seurat`, `PLINK2`, `bcftools`, `BLAST`
-**Data Science:** `Pandas`, `NumPy`, `Matplotlib`, `tidyverse`, `pytorch`
-**Workflow & Development:** `Snakemake`, `Git`, `GitHub`, Linux/WSL
+**Languages:** `Python`, `R`, `Bash`, Java, C++  
+**Bioinformatics:** `Biopython`, `Seurat`, `PLINK2`, `bcftools`, `BLAST`  
+**Data Science:** `Pandas`, `NumPy`, `Matplotlib`, `tidyverse`, `pytorch`  
+**Workflow & Development:** `Snakemake`, `Git`, `GitHub`, Linux/WSL  
 
 ## 🔬 Interests
 - Bioinformatics
