@@ -27,6 +27,6 @@ An automated and reproducible workflow for mitochondrial genome assembly and ana
 - Biomedical data science
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/emil-andre-cacayan-797741129/)
-[Website](https://emilcacayan.com)
-[Blog](https://bytesizedbiology.blog)
+[LinkedIn](https://www.linkedin.com/in/emil-andre-cacayan-797741129/) 
+[Website](https://emilcacayan.com) 
+[Blog](https://bytesizedbiology.blog) 
