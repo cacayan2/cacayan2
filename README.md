@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Emil! 👋
 
-<!--
-**cacayan2/cacayan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatician with a background in biochemistry interested in building computational pipelines and tools for biological research.
 
-Here are some ideas to get you started:
+My interests include genomics, workflow automation, data science, machine learning, and translating biological analysis into actionable and reproducible conclusions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 Featured Projects
+
+### Mitopipeline
+An automated and reproducible workflow for mitochondrial genome assembly and analysis from sequencing data.
+**Technologies:** `Python`, `Snakemake`, `Bash`, `GetOrganelle`, `BLAST`, `MITOS2`, `MAFFT`, `IQ-TREE`
+
+[View Mitopipeline](https://github.com/cacayan2/mitopipeline)
+
+## 🛠 Technical Skills
+**Languages:** `Python`, `R`, `Bash`, Java, C++
+**Bioinformatics:** `Biopython`, `Seurat`, `PLINK2`, `bcftools`, `BLAST`
+**Data Science:** `Pandas`, `NumPy`, `Matplotlib`, `tidyverse`, `pytorch`
+**Workflow & Development:** `Snakemake`, `Git`, `GitHub`, Linux/WSL
+
+## 🔬 Interests
+- Bioinformatics
+- Computational biology
+- Genomics
+- Scientific software
+- Reproducible research
+- Biomedical data science
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/emil-andre-cacayan-797741129/)
+[Website](https://emilcacayan.com)
+[Blog](https://bytesizedbiology.blog)
